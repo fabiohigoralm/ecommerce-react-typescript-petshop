@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerce-react-typescript-petshop/static/css/main.21608f41.css",
-    "main.js": "/ecommerce-react-typescript-petshop/static/js/main.973a18c1.js",
+    "main.js": "/ecommerce-react-typescript-petshop/static/js/main.40339f1a.js",
     "static/js/787.6d0ad006.chunk.js": "/ecommerce-react-typescript-petshop/static/js/787.6d0ad006.chunk.js",
     "static/media/img_1_setas.png": "/ecommerce-react-typescript-petshop/static/media/img_1_setas.4ce7082e9bb51a48f0e9.png",
     "static/media/for-cats.png": "/ecommerce-react-typescript-petshop/static/media/for-cats.a500843f2c37c4daae92.png",
@@ -15,11 +15,11 @@
     "static/media/slick.woff": "/ecommerce-react-typescript-petshop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ecommerce-react-typescript-petshop/index.html",
     "main.21608f41.css.map": "/ecommerce-react-typescript-petshop/static/css/main.21608f41.css.map",
-    "main.973a18c1.js.map": "/ecommerce-react-typescript-petshop/static/js/main.973a18c1.js.map",
+    "main.40339f1a.js.map": "/ecommerce-react-typescript-petshop/static/js/main.40339f1a.js.map",
     "787.6d0ad006.chunk.js.map": "/ecommerce-react-typescript-petshop/static/js/787.6d0ad006.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21608f41.css",
-    "static/js/main.973a18c1.js"
+    "static/js/main.40339f1a.js"
   ]
 }
