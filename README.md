@@ -1,3 +1,16 @@
+## Teste lógico
+
+As respostas do teste de JavaScript estao dentro da pasta "part2".
+
+## Arquivos do projeto
+
+Todos arquivos utilizados para criar o layout estao dentro da pasta "src/layout" e "src/img".
+
+## Para vizualizar o layout entrar no link abaixo:
+https://fabiohigoralm.github.io/ecommerce-react-typescript-petshop/
+
+## Para abrir o projeto seguir as instruções abaixo:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
