@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ac23496.css",
+    "main.js": "/static/js/main.8adca0d3.js",
+    "static/js/787.aa4a0f5c.chunk.js": "/static/js/787.aa4a0f5c.chunk.js",
+    "static/media/img_1_setas.png": "/static/media/img_1_setas.4ce7082e9bb51a48f0e9.png",
+    "static/media/for-cats.png": "/static/media/for-cats.a500843f2c37c4daae92.png",
+    "static/media/for-dogs.png": "/static/media/for-dogs.f52ffd50a78d946a328f.png",
+    "static/media/food.png": "/static/media/food.173926fa9b6c7deb689a.png",
+    "static/media/accessories.png": "/static/media/accessories.3b1d15cbde2ad2ae963d.png",
+    "static/media/toys.png": "/static/media/toys.cbf30d469e15276d11d7.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.9ac23496.css.map": "/static/css/main.9ac23496.css.map",
+    "main.8adca0d3.js.map": "/static/js/main.8adca0d3.js.map",
+    "787.aa4a0f5c.chunk.js.map": "/static/js/787.aa4a0f5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac23496.css",
+    "static/js/main.8adca0d3.js"
+  ]
+}
