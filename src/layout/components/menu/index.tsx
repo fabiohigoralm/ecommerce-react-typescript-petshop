@@ -9,7 +9,9 @@ export const Menu = () => {
             {infos.menu.map((element,id) => (
             <li key={id}>{element.nome}</li>
           ))}
+          
             </ul>
+            {/* <input type="text" className="input-mobile" placeholder='Pesquisar...'></input> */}
         </MenuContainer>
     )
 }
